@@ -1,2 +1,5 @@
 # react superheroes
-###  an app to search superhero
+###  an app to search superhero from API
+
+# Technology used
+### React js
